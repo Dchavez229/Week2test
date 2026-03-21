@@ -1,0 +1,56 @@
+# ==============================
+# Unreal Engine .gitignore
+# ==============================
+
+# Ignore build/temporary files
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# Ignore IDE/project files
+.vs/
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.opensdf
+*.sdf
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
+
+# Ignore logs
+*.log
+
+# Ignore autosaves/backups
+*.autosave
+*.backup
+
+# ==============================
+# KEEP THESE IMPORTANT FILES
+# ==============================
+
+# Project file
+!*.uproject
+
+# Config files
+!Config/**
+
+# Source code
+!Source/**
+
+# Plugins
+!Plugins/**
+
+# Content (THIS IS WHAT YOU WERE MISSING)
+!Content/**
+
+# Optional: raw assets (fbx, textures, etc.)
+!RawContent/**
+
+# ==============================
+# Git LFS (handled separately)
+# ==============================
