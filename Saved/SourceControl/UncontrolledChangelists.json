@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/school/gam207/game/Content/map/NewMap.umap",
+				"D:/school/gam207/game/Content/player/arenamode.uasset",
+				"D:/school/gam207/game/Content/player/playerchar_Bp.uasset",
+				"D:/school/gam207/game/Content/player/playerProj_BP.uasset",
+				"D:/school/gam207/game/Content/player/projectile_map.uasset",
+				"D:/school/gam207/game/Content/player/playercontroller_bp.uasset"
+			]
+		}
+	]
+}
