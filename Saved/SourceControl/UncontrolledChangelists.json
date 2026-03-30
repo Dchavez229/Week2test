@@ -10,7 +10,18 @@
 				"D:/school/gam207/game/Content/player/playerchar_Bp.uasset",
 				"D:/school/gam207/game/Content/player/playerProj_BP.uasset",
 				"D:/school/gam207/game/Content/player/projectile_map.uasset",
-				"D:/school/gam207/game/Content/player/playercontroller_bp.uasset"
+				"D:/school/gam207/game/Content/player/playercontroller_bp.uasset",
+				"D:/school/gam207/game/Content/AI/task/wander.uasset",
+				"D:/school/gam207/game/Content/AI/Ai_BT.uasset",
+				"D:/school/gam207/game/Content/AI/AI_BB.uasset",
+				"D:/school/gam207/game/Content/AI/aichar_BP.uasset",
+				"D:/school/gam207/game/Content/AI/AIController_BP.uasset",
+				"D:/school/gam207/game/Content/AI/aiProj.uasset",
+				"D:/school/gam207/game/Content/AI/task/Focus.uasset",
+				"D:/school/gam207/game/Content/AI/task/MoveToLocation.uasset",
+				"D:/school/gam207/game/Content/AI/task/Shoot.uasset",
+				"D:/school/gam207/game/Content/AI/task/StopShooting.uasset",
+				"D:/school/gam207/game/Content/spawner/spawnerPoint.uasset"
 			]
 		}
 	]
